@@ -11,7 +11,7 @@
 #原始仓库：  https://github.com/Maasea
 #原始仓库：  https://github.com/app2smile
 #重写地址：  https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf
-#参考合并：  https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Shadowrocket/Module/YouTubeAds.sgmodule
+#参考合并：  https://github.com/Infatuation-Fei/rule/blob/main/Shadowrocket/Module/YouTubeAds.sgmodule
 ########################################
 
 [Script]
